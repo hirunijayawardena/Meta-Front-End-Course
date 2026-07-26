@@ -1,1 +1,1 @@
-console.log("%Hello world", "color: blue; font-size: 40px");
+console.log("%Hello world");
