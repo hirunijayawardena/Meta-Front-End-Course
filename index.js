@@ -1,2 +1,1 @@
-console.log("%Hello world");
-console.log("first line")
+var petDog = "Rex";
