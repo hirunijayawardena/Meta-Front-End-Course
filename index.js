@@ -7,3 +7,5 @@ console.log("My pet dog's name is " + petDog);
 var catSound = "purr";
 var dogSound = "woof";
 console.log(petDog, "says", dogSound);
+catSound = "meow";
+console.log(petCat, " now says ", catSound);
