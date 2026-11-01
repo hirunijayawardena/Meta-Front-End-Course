@@ -39,5 +39,8 @@ switch(light){
         break;
     case "orange":
         console.log("Get ready");
+        break;
+    case "red" :
+        console.log("Stop")
         
 }
